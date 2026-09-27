@@ -1,6 +1,6 @@
-# ShiftTrack
+# Zenvic Solution Scheduler
 
-ShiftTrack is a Streamlit-based workforce attendance and roster management dashboard. It gives supervisors and workers a shared interface for registering workers, planning weekly shifts, recording daily attendance, reviewing historical logs, and exporting attendance data as CSV files.
+Zenvic Solution Scheduler is a Streamlit-based workforce attendance and roster management dashboard. It gives supervisors and workers a shared interface for registering workers, planning weekly shifts, recording daily attendance, reviewing historical logs, and exporting attendance data as CSV files.
 
 The application uses Supabase as its cloud database and is organized around four operational views:
 
